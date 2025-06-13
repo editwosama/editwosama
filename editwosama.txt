@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ar">
+  <head>
+    <meta charset="UTF-8" />
+    <title>osama studio</title>
+    <style>
+      body {
+        background-color: black;
+        color: white;
+        font-family: sans-serif;
+        text-align: center;
+        padding-top: 25vh;
+        margin: 0;
+      }
+
+      h1 {
+        font-size: 3em;
+        margin-bottom: 0.5em;
+      }
+
+      p {
+        font-size: 1.2em;
+        color: #aaa;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>editwosama</h1>
+    <p>الموقع قيد الإنشاء...</p>
+  </body>
